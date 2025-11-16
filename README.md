@@ -1,0 +1,7 @@
+The Human Factor: Analyzing the Role of Social Engineering in Information Security Breaches at PHINMA University of Iloilo
+
+I. Introduction
+A. About the Organization
+PHINMA University of Iloilo is a private university located in Iloilo City, Philippines. It is part of the PHINMA Education Network (PEN), which provide access and quality education to Filipino students. Founded in 1947 as Iloilo City Colleges, it became the University of Iloilo in 1968 and was later gained by PHINMA Education in 2009. The institution offers various programs including Basic Education, Business, IT, Engineering, Education, Criminology, Nursing, and Graduate Studies. PHINMA UI continues to keeps a vision of transforming students’ lives through education and developing professionals who can contribute to the community.
+B. Why Choose this Organization
+PHINMA University of Iloilo was chosen for this study because it is a leading academic institution that connect  technology into its daily operations. With the use of the Student Information System (SIS), online learning platforms, and digital communication tools, PHINMA UI encounter potential cybersecurity threats. One major concern is the weakness of students, faculty, and staff to social engineering attacks such as phishing, pretexting, and baiting. Analyzing the human factor in the university’s cybersecurity position will help identify areas where awareness, training, and behavior can be improved.
